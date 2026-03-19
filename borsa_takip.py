@@ -84,9 +84,6 @@ HTML_TEMPLATE = """
         </div>
     </div>
 </footer>
-        <footer class="mt-2 text-center text-muted pb-3">
-            <small>Tüm veriler yFinance üzerinden anlık olarak alınmıştır.</small>
-        </footer>
     </div>
 </body>
 </html>
