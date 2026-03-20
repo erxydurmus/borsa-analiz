@@ -1,5 +1,5 @@
 ##  Canlı Uygulama / Live Demo
-Uygulamayı buradan inceleyebilirsiniz: [Borsa Analiz Paneli](https://borsa-analiz-9f8m.onrender.com)
+<a href="https://borsa-analiz-9f8m.onrender.com" target="_blank"> Uygulamayı Canlı İzlemek İçin TIKLAYIN (Yeni Sekmede Açılır)</a>
 
 *(Not: Ücretsiz sunucu kullanıldığı için ilk açılış 30-50 saniye sürebilir.)*
 
