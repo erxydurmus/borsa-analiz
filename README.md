@@ -1,3 +1,8 @@
+##  Canlı Uygulama / Live Demo
+Uygulamayı buradan inceleyebilirsiniz: [Borsa Analiz Paneli](https://borsa-analiz-9f8m.onrender.com)
+
+*(Not: Ücretsiz sunucu kullanıldığı için ilk açılış 30-50 saniye sürebilir.)*
+
 # Borsa Teknik Analiz ve Sinyal Takip Sistemi
 
 Bu proje, Python tabanlı bir mikro web servisidir. Finansal piyasalardaki teknik verileri analiz ederek belirli stratejilere göre alım sinyalleri üretir ve kullanıcıya iletir.
